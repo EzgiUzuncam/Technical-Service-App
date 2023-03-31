@@ -1,0 +1,51 @@
+.picture{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.about-up{
+    background-color: #e6e6e6;
+}
+
+.brace{
+ border: none;
+ border-top: 3px solid #343a40;
+ max-width: 250px;
+ margin: 25px auto;
+}
+
+.igrey{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:10px solid #e6e6e6;
+    background-color: #e6e6e6;
+}
+
+.iwhite{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:10px solid white;
+    background-color: white;
+}
+
+.card>img:hover{
+   opacity: 0.8;
+   cursor: pointer;
+}
+
+.gallery{
+    background-color: #e6e6e6;
+}
+
+.figure:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
