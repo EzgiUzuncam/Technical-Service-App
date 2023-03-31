@@ -12,4 +12,4 @@
 
 <img src="/gif/TechnicalServiceTwo.gif"><br></br></br>
 
-<img src="/gif/TechnicalServiceThree.gif"># Technical-Service-App
+<img src="/gif/TechnicalServiceThree.gif">
